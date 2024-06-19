@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    font-size: 28px;
+    cursor: pointer;
+    color: white;
+}
+
+.grey-button {
+    background-color: grey;
+    color: white;
+}
+
+.orange-button {
+    background-color: orange;
+}
