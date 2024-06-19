@@ -1,4 +1,4 @@
 # Projects
 
-Hey Welcome to my Learning Journey.
-I will Document my whole Coding Expirience!
+Hey. Welcome to my learning journey.
+I will document my whole coding experience!
